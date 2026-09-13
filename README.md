@@ -1,6 +1,6 @@
 # devops-capstone-project
 
-![Build Status](https://github.com//devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+![Build Status](https://github.com/amounankouadio/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 
 DevOps Capstone Project: an account microservice with REST APIs
